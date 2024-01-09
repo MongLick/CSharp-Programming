@@ -45,7 +45,7 @@ namespace Programming  // 네임스페이스 안의 기능을 Programming 이름
     class Program
     {
 
-
+        
 
         /******************************************************
          * Main 함수
